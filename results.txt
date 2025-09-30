@@ -1,0 +1,29 @@
+Decision Tree Performance:
+Accuracy: 0.7540983606557377
+              precision    recall  f1-score   support
+
+           0       0.69      0.86      0.77        29
+           1       0.84      0.66      0.74        32
+
+    accuracy                           0.75        61
+   macro avg       0.77      0.76      0.75        61
+weighted avg       0.77      0.75      0.75        61
+
+Confusion Matrix:
+[[25  4]
+ [11 21]]
+
+Random Forest Performance:
+Accuracy: 0.8360655737704918
+              precision    recall  f1-score   support
+
+           0       0.83      0.83      0.83        29
+           1       0.84      0.84      0.84        32
+
+    accuracy                           0.84        61
+   macro avg       0.84      0.84      0.84        61
+weighted avg       0.84      0.84      0.84        61
+
+Confusion Matrix:
+[[24  5]
+ [ 5 27]]
